@@ -3,7 +3,7 @@
 Bu projede bir yemek tarifi web sitesindeki her bir yemek için görüntülenecek kartı oluşturuyoruz. Projedeki Card Componenti bir yemek tarifinin detaylarını, yazarını, beğeni sayısını ve kullanıcın tarifi beğenip beğenmediğine dair birtakım bilgileri gösteriyor.
 
 <p align="center">
-  <img src="recipe-card.png" alt="Recipe Card"/>
+  <img width="677" alt="İskender-Recipe-Card" src="https://user-images.githubusercontent.com/73793862/118390874-1f096580-b63a-11eb-8f3f-bb57a6d739ad.png">
 </p>
 
 ### Proje Nasıl Çalıştırılır
