@@ -20,4 +20,4 @@ These "props" are named as author, recipe, count, liked, respectively.
 -HTML
 -CSS
 -JavaScript
--React JS (ReactDOM, heartOutline, heartFill,)
+-React JS (ReactDOM, heartOutline, heartFill)
