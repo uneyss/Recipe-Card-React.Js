@@ -17,7 +17,9 @@ Card Component takes certain props to list information about food.
 These "props" are named as author, recipe, count, liked, respectively.
 
 ### Technologies and tools
--HTML
--CSS
--JavaScript
--React JS (ReactDOM, heartOutline, heartFill)
+<ul> 
+  <li>-HTML</li>
+  <li>-CSS</li>
+  <li>-JavaScript</li>
+  <li>-React JS (ReactDOM, heartOutline, heartFill)</li>
+</ul>
